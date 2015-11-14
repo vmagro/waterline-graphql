@@ -13,7 +13,8 @@
   },
   "main": "./lib/adapter.js",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "pluralize": "^1.2.1"
   },
   "devDependencies": {
     "babel": "^5.0.0",
